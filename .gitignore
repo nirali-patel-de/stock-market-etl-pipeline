@@ -21,3 +21,4 @@ __pycache__/
 *.log
 
 test_hdfs.py
+LEARNINGS.md
